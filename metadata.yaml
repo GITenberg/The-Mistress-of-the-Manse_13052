@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2046
     wikipedia: http://en.wikipedia.org/wiki/Josiah_Gilbert_Holland
 description: Prelude -- Love's experiments -- Love's philosophies -- Love's consummations.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13052#The-Mistress-of-the-Manse
 gutenberg_issued: '2004-07-29'
 gutenberg_type: Text
 identifiers:
